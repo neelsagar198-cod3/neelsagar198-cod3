@@ -67,7 +67,7 @@ Instead of a giant wall of badges, here is how my toolkit actually looks day-to-
 
 ### ╭── Let's Build Something Cool Together (Async Friendly!)
 
-I don't hang out on Twitter or noisy social feeds—I much prefer calm, asynchronous conversations. Whether you want to talk about web architecture, swap Linux setup tips, collaborate on an open-source project, or just geek out over code, drop me a message anytime and we can reply at our own pace:
+I much prefer calm, asynchronous conversations. Whether you want to talk about web architecture, swap Linux setup tips, collaborate on an open-source project, or just geek out over code, drop me a message anytime and we can reply at our own pace:
 
 - **Email:** [neelsagar198@gmail.com](mailto:neelsagar198@gmail.com)
 - **Discord:** `neel070556`
