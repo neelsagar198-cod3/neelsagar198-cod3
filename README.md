@@ -63,16 +63,6 @@ Instead of a giant wall of badges, here is how my toolkit actually looks day-to-
 [ ] Polishing full-stack portfolio apps & writing cleaner test suites
 [ ] Drinking enough water while debugging (work in progress...)
 ```
-
----
-
-### ╭── Stats & Footprints
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelsagar198-cod3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelsagar198-cod3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-</p>
-
 ---
 
 ### ╭── Let's Build Something Cool Together (Async Friendly!)
