@@ -13,7 +13,7 @@ Welcome to my little corner of the internet. If you're here, you probably like l
 
 I'm a **Full-Stack Web Developer**, which is really just the official way of saying I love taking a weird, half-baked idea on a napkin and figuring out how to make it live and breathe on a screen. I learned web development from the ground up—writing raw DOM manipulation, state logic, and data structures in pure JavaScript before ever touching a framework—because I'm endlessly curious about how things actually work under the hood.
 
-I genuinely believe that "**Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it. Accept nothing nearly right or good enough.**"-Sir Henry Royce. Software doesn't have to feel cold or robotic. At its best, code is a craft made by humans for humans—and a little bit of personality in what we build goes a long way.
+I genuinely believe that "**Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it. Accept nothing nearly right or good enough.**"-Sir Henry Royce.
 
 ---
 
